@@ -1,0 +1,14 @@
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\bin\Debug\net7.0\bodyMass.exe
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\bin\Debug\net7.0\bodyMass.deps.json
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\bin\Debug\net7.0\bodyMass.runtimeconfig.json
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\bin\Debug\net7.0\bodyMass.dll
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\bin\Debug\net7.0\bodyMass.pdb
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\bodyMass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\bodyMass.AssemblyInfoInputs.cache
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\bodyMass.AssemblyInfo.cs
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\bodyMass.csproj.CoreCompileInputs.cache
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\bodyMass.dll
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\refint\bodyMass.dll
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\bodyMass.pdb
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\bodyMass.genruntimeconfig.cache
+C:\Users\AmongUs\source\repos\bodyMass\bodyMass\obj\Debug\net7.0\ref\bodyMass.dll
