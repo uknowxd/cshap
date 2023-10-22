@@ -1,0 +1,14 @@
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\week-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\week-11.AssemblyInfoInputs.cache
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\week-11.AssemblyInfo.cs
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\week-11.csproj.CoreCompileInputs.cache
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\bin\Debug\net7.0\week-11.exe
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\bin\Debug\net7.0\week-11.deps.json
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\bin\Debug\net7.0\week-11.runtimeconfig.json
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\bin\Debug\net7.0\week-11.dll
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\bin\Debug\net7.0\week-11.pdb
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\week-11.dll
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\refint\week-11.dll
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\week-11.pdb
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\week-11.genruntimeconfig.cache
+C:\Users\ACER 1\Documents\GitHub\cshap\week-11\obj\Debug\net7.0\ref\week-11.dll
