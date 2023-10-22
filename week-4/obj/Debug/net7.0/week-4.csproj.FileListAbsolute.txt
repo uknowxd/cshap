@@ -1,0 +1,14 @@
+C:\csharp\week-4\bin\Debug\net7.0\week-4.exe
+C:\csharp\week-4\bin\Debug\net7.0\week-4.deps.json
+C:\csharp\week-4\bin\Debug\net7.0\week-4.runtimeconfig.json
+C:\csharp\week-4\bin\Debug\net7.0\week-4.dll
+C:\csharp\week-4\bin\Debug\net7.0\week-4.pdb
+C:\csharp\week-4\obj\Debug\net7.0\week-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\week-4\obj\Debug\net7.0\week-4.AssemblyInfoInputs.cache
+C:\csharp\week-4\obj\Debug\net7.0\week-4.AssemblyInfo.cs
+C:\csharp\week-4\obj\Debug\net7.0\week-4.csproj.CoreCompileInputs.cache
+C:\csharp\week-4\obj\Debug\net7.0\week-4.dll
+C:\csharp\week-4\obj\Debug\net7.0\refint\week-4.dll
+C:\csharp\week-4\obj\Debug\net7.0\week-4.pdb
+C:\csharp\week-4\obj\Debug\net7.0\week-4.genruntimeconfig.cache
+C:\csharp\week-4\obj\Debug\net7.0\ref\week-4.dll
