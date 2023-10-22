@@ -1,0 +1,14 @@
+C:\Users\ACER 1\Documents\GitHub\cshap\project\bin\Debug\net7.0\project.exe
+C:\Users\ACER 1\Documents\GitHub\cshap\project\bin\Debug\net7.0\project.deps.json
+C:\Users\ACER 1\Documents\GitHub\cshap\project\bin\Debug\net7.0\project.runtimeconfig.json
+C:\Users\ACER 1\Documents\GitHub\cshap\project\bin\Debug\net7.0\project.dll
+C:\Users\ACER 1\Documents\GitHub\cshap\project\bin\Debug\net7.0\project.pdb
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\project.AssemblyInfoInputs.cache
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\project.AssemblyInfo.cs
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\project.csproj.CoreCompileInputs.cache
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\project.dll
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\refint\project.dll
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\project.pdb
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\project.genruntimeconfig.cache
+C:\Users\ACER 1\Documents\GitHub\cshap\project\obj\Debug\net7.0\ref\project.dll
